@@ -1,0 +1,4 @@
+What is the main limitation of basic RAG systems?
+Explain how hallucination occurs in LLMs
+Why is retrieval important in reasoning systems?
+What happens when sources conflict?

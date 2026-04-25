@@ -1,0 +1,4 @@
+Basic RAG systems often fail due to shallow retrieval and lack of verification.
+Hallucination occurs when models generate unsupported information.
+Retrieval grounds reasoning in external knowledge.
+Conflicting sources require verification mechanisms.
