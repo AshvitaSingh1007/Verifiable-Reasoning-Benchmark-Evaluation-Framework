@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+python-dotenv
+sentence-transformers
+torch
+openai
+matplotlib
